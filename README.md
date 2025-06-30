@@ -11,7 +11,7 @@
 - **.NET 8** — Framework subyacente
 - **GitHub Actions** — CI/CD automatizado
 - **Soomee** — Previsualización visual del portal y métricas del despliegue
-- (Opcional) **ASP.NET Core Web API** — Backend para contenido dinámico
+- **ASP.NET Core Web API** — Backend para contenido dinámico
 - **Clean Architecture** — Separación de responsabilidades y escalabilidad
 
 ---
